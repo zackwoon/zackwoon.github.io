@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zackwoon.github.io/ar/categories/</loc>
+    <loc>https://zackwoon.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -10,33 +10,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://zackwoon.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://zackwoon.github.io/ar/categories/"
                 />
-  </url><url>
-    <loc>https://zackwoon.github.io/ar/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zackwoon.github.io/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://zackwoon.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://zackwoon.github.io/ar/tags/"
+                href="https://zackwoon.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://zackwoon.github.io/ar/</loc>
+    <loc>https://zackwoon.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,13 +27,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://zackwoon.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://zackwoon.github.io/es/"
+                />
+  </url><url>
+    <loc>https://zackwoon.github.io/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zackwoon.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zackwoon.github.io/ar/"
+                href="https://zackwoon.github.io/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://zackwoon.github.io/es/tags/"
                 />
   </url>
 </urlset>

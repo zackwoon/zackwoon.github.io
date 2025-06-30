@@ -2,97 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zaclwoon.github.io/</loc>
+    <loc>https://zackwoon.github.io/</loc>
     <lastmod>2025-06-25T17:18:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zaclwoon.github.io/zh-cn/"
+                hreflang="es"
+                href="https://zackwoon.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zaclwoon.github.io/ar/"
+                href="https://zackwoon.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zaclwoon.github.io/"
+                href="https://zackwoon.github.io/"
                 />
   </url><url>
-    <loc>https://zaclwoon.github.io/post/</loc>
+    <loc>https://zackwoon.github.io/post/</loc>
     <lastmod>2025-06-25T17:18:44+08:00</lastmod>
   </url><url>
-    <loc>https://zaclwoon.github.io/p/vtest/</loc>
+    <loc>https://zackwoon.github.io/p/vtest/</loc>
     <lastmod>2025-06-25T17:18:44+08:00</lastmod>
   </url><url>
-    <loc>https://zaclwoon.github.io/archives/</loc>
+    <loc>https://zackwoon.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaclwoon.github.io/page/</loc>
+    <loc>https://zackwoon.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zaclwoon.github.io/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zaclwoon.github.io/page/"
-                />
   </url><url>
-    <loc>https://zaclwoon.github.io/about/</loc>
+    <loc>https://zackwoon.github.io/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zaclwoon.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zaclwoon.github.io/about/"
-                />
   </url><url>
-    <loc>https://zaclwoon.github.io/categories/</loc>
+    <loc>https://zackwoon.github.io/_index.zh-cn/</loc>
+  </url><url>
+    <loc>https://zackwoon.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zaclwoon.github.io/zh-cn/categories/"
+                hreflang="es"
+                href="https://zackwoon.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zaclwoon.github.io/ar/categories/"
+                href="https://zackwoon.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zaclwoon.github.io/categories/"
+                href="https://zackwoon.github.io/categories/"
                 />
   </url><url>
-    <loc>https://zaclwoon.github.io/links/</loc>
+    <loc>https://zackwoon.github.io/links/</loc>
   </url><url>
-    <loc>https://zaclwoon.github.io/search/</loc>
+    <loc>https://zackwoon.github.io/search/</loc>
   </url><url>
-    <loc>https://zaclwoon.github.io/tags/</loc>
+    <loc>https://zackwoon.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zaclwoon.github.io/zh-cn/tags/"
+                hreflang="es"
+                href="https://zackwoon.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://zaclwoon.github.io/ar/tags/"
+                href="https://zackwoon.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zaclwoon.github.io/tags/"
+                href="https://zackwoon.github.io/tags/"
                 />
   </url><url>
-    <loc>https://zaclwoon.github.io/categories/test/</loc>
+    <loc>https://zackwoon.github.io/categories/test/</loc>
   </url>
 </urlset>
