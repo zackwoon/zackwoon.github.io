@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://zaclwoon.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2025-06-25T17:18:44+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://zaclwoon.github.io/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://zaclwoon.github.io/ar/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zaclwoon.github.io/</loc>
+    <lastmod>2025-06-25T17:18:44+08:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/post/</loc>
+    <lastmod>2025-06-25T17:18:44+08:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/p/vtest/</loc>
+    <lastmod>2025-06-25T17:18:44+08:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/categories/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaclwoon.github.io/_index.zh-cn/</loc>
+  </url><url>
+    <loc>https://zaclwoon.github.io/links/</loc>
+  </url><url>
+    <loc>https://zaclwoon.github.io/search/</loc>
+  </url><url>
+    <loc>https://zaclwoon.github.io/tags/</loc>
+  </url>
+</urlset>
